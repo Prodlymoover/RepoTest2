@@ -1,2 +1,4 @@
 Guid,AccountId,Comments,ContactId,Description,IsEscalated,Origin,Priority,Reason,Status,Subject,SuppliedCompany,SuppliedEmail,SuppliedName,SuppliedPhone,Type
-60c2da38-0c47-4acc-b19d-aadb70d44494,eeeaf364-9def-496f-bcd9-e5ab743a787f,"#N/A",1274b89c-1350-4596-9259-abb76d8738f9,"#N/A",false,Email,Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+998916b8-eaf7-494a-bef9-0d84bbe0af99,aed18ecb-a92a-42f0-ad98-eac5c81fafcb,"#N/A",2ee1c395-7a42-4058-a060-6183c8501791,Test,false,Email,Medium,User didn't attend training,New,Test,"#N/A","#N/A","#N/A","#N/A",Problem
+b744adfa-04d5-438c-9ced-56f783701d42,de36750e-916a-4763-afd4-07cb409140f7,"#N/A",c926930a-6d28-40ae-ac7e-5bb60c25b284,"#N/A",false,Email,Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+f5a89649-5743-4e99-9484-27f14c46b32b,aed18ecb-a92a-42f0-ad98-eac5c81fafcb,"#N/A",2ee1c395-7a42-4058-a060-6183c8501791,"#N/A",false,Email,Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
